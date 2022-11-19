@@ -6,6 +6,7 @@
 
 > (Take Note:)
 - You will create your own GUI, and connect them at "settings.Objects"
+- Change the webhook url at "Server.lua" to your webhook url!
 
 > (How to use this model?)
 1. Place my child "Settings" at a ScreenGUI.
