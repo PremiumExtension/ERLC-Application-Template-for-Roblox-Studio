@@ -1,7 +1,4 @@
-# ERLC Application Template for Roblox Studio
- Create your own application for ERLC in Roblox Studio
-
-## How to set up?
+--[[
  /\
 /!!\	WARNING
 ----
@@ -31,3 +28,5 @@
 		-- if you want it to be in order:
 		StartForm:Order()
 	```
+
+--]]
